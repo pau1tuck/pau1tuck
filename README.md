@@ -1,4 +1,5 @@
-### Hi there 👋
+### Hi there
+Server: Git, SQL, Python, Node.js
 
 <!--
 **pau1tuck/pau1tuck** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
