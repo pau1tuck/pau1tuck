@@ -1,5 +1,5 @@
-### Hi there
-Server: Git, SQL, Python, Node.js
+#### Computer-Assisted Language Learning (CALL) Software Engineer
+Python, Django, Node.js, React, GraphQL, TypeScript
 
 <!--
 **pau1tuck/pau1tuck** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
