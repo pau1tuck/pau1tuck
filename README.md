@@ -1,4 +1,4 @@
-#### Computer-Assisted Language Learning (CALL) Software Engineer
+#### Computer-Assisted Language Learning (CALL) Software Developer
 Python, Django, Node.js, React, GraphQL, TypeScript
 
 <!--
