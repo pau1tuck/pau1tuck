@@ -1,5 +1,5 @@
-#### Computer-Assisted Language Learning (CALL) Software Developer
-Python, Django, Node.js, SQL, TypeScript, React, GraphQL
+#### 🄵🅄🄻🄻 🅂🅃🄰🄲🄺 Software Developer
+Python, Django, Node.js, SQL, TypeScript, React, React Native, GraphQL
 
 <!--
 **pau1tuck/pau1tuck** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
