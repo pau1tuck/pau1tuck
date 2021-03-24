@@ -1,4 +1,4 @@
-###### 🄵🅄🄻🄻 🅂🅃🄰🄲🄺 Software Developer
+#### 🄵🅄🄻🄻 🅂🅃🄰🄲🄺 Software Developer
 
 🚀 I'm a freelance developer specializing in Node.js, PostgreSQL, MongoDB, GraphQL and React/React Native with TypeScript. I also work with Python in Django and Arch Linux.
 
