@@ -1,6 +1,6 @@
 #### 🄵🅄🄻🄻 🅂🅃🄰🄲🄺 Software Developer
 
-🚀 I'm a freelance developer specializing in Node.js, PostgreSQL, MongoDB, GraphQL and React/React Native with TypeScript. I also work with Python in Django and Arch Linux.
+🚀 I'm a freelance developer specializing in Node.js, PostgreSQL, MongoDB, GraphQL and React/React Native with TypeScript. I also work with Python Django and Arch Linux.
 
 <!--
 **pau1tuck/pau1tuck** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
