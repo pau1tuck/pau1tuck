@@ -1,10 +1,10 @@
-#### 🄵🅄🄻🄻 🅂🅃🄰🄲🄺 Software Developer ####
+#### 🄵🅄🄻🄻 🅂🅃🄰🄲🄺 Software Developer
 
 🚀 I'm a freelance developer specializing in Node.js, PostgreSQL, GraphQL and React/React Native with TypeScript. I also work with Python Django, MongoDB and Arch Linux.
 
 I'm experienced with the following frameworks, languages and tools:
 
-✅ ## CLIENT##: React, React Native, Next.js, Apollo Client/GraphQL-(cli), React Hook Form (Yup), framer-motion, ES8+/TypeScript; CSS-in-JS, styled-components, Chakra UI, Material UI, SASS, Bootstrap; HTML5; React Testing Library, Jest; WebPack, Babel, esBuild; ESLint
+✅ #### CLIENT ####: React, React Native, Next.js, Apollo Client/GraphQL-(cli), React Hook Form (Yup), framer-motion, ES8+/TypeScript; CSS-in-JS, styled-components, Chakra UI, Material UI, SASS, Bootstrap; HTML5; React Testing Library, Jest; WebPack, Babel, esBuild; ESLint
 
 I do most of my design work with Adobe Photoshop, Illustrator, After Effects, and XD.
 <!--
