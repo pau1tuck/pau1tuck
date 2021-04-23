@@ -1,6 +1,6 @@
 #### 🄵🅄🄻🄻 🅂🅃🄰🄲🄺 🄳🄴🅅🄴🄻🄾🄿🄴🅁
 
-🚀 I'm a freelance developer from the UK, specializing in Node.js, SQL, GraphQL and React/React Native with TypeScript. I also work with Python Django, MongoDB and Arch Linux.
+🚀 I'm a freelance developer from the UK, specializing in Node.js, SQL, GraphQL and React/React Native with TypeScript. I also work with Python Django, MongoDB, Arch Linux and C/C++.
 
 I'm experienced with the following frameworks, languages and tools:
 
