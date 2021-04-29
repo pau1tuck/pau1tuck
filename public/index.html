@@ -1,1 +1,72 @@
-Hello, Cocksucker.
+<!DOCTYPE html>
+
+<html lang="en">
+    <head>
+        <meta charset="UTF-8" />
+        <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+        <meta http-equiv="X-UA-Compatible" content="ie=edge" />
+
+        <title>PAUL TUCK | Software Developer</title>
+        <meta name="description" content="Paul Tuck | Software Developer" />
+        <meta name="author" content="Paul Tuck @pau1tuck" />
+        <link rel="preconnect" href="https://fonts.gstatic.com" />
+        <link
+            href="https://fonts.googleapis.com/css2?family=Open+Sans&display=swap"
+            rel="stylesheet"
+        />
+        <link rel="stylesheet" href="css/styles.css" />
+    </head>
+
+    <body>
+        <div class="wrapper">
+            <header>
+                <h1>PAUL TUCK</h1>
+                <section class="menu">
+                    <ul>
+                        <li><a href="#">Home</a></li>
+                        <li><a href="#">About</a></li>
+                        <li><a href="#">Contact</a></li>
+                    </ul>
+                </section>
+            </header>
+            <main>
+                <section class="content">
+                    <h2>
+                        Social authentication with TypeGraphQL, TypeORM, and
+                        Passport.js
+                    </h2>
+                    <p>Create a src/index.ts for the Express server.</p>
+                    <div class="code">
+                        <p>
+                            import express, { Express, Request, Response } from
+                            "express";
+                        </p>
+                        <br />
+                        <p>const server = async () => {</p>
+                        <p>&emsp;const app: Express = express();</p>
+                        <br />
+                        <p>
+                            &emsp;app.get("/", (req: Request, res: Response) =>
+                            { res.sendFile(path.resolve(__dirname,
+                            "../public/index.html")); });
+                        </p>
+                        <br />
+
+                        <p>&emsp;app.listen(5000, () => {</p>
+                        <p>
+                            &emsp;&emsp;console.log("🚀 Node server running on
+                            port 5000");
+                        </p>
+                        <p>&emsp;});</p>
+                        <p>};</p>
+                        <br />
+
+                        <p>server().catch((err) => {</p>
+                        <p>&emsp;console.log(err);</p>
+                        <p>});</p>
+                    </div>
+                </section>
+            </main>
+        </div>
+    </body>
+</html>
