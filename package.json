@@ -1,0 +1,23 @@
+{
+    "name": "pau1tuck",
+    "version": "1.0.0",
+    "main": "dist/index.js",
+    "repository": "https://github.com/pau1tuck/pau1tuck.git",
+    "author": "Paul Tuck @pau1tuck",
+    "license": "MIT",
+    "scripts": {
+        "dev": "concurrently \"tsc -w\" \"nodemon dist/index.js\"",
+        "build": "tsc",
+        "start": "node api/index.js",
+        "lint": "eslint '*/**/*.{ts,tsx}' --quiet --fix"
+    },
+    "dependencies": {
+        "express": "^4.17.1"
+    },
+    "devDependencies": {
+        "@types/express": "^4.17.11",
+        "concurrently": "^6.0.2",
+        "nodemon": "^2.0.7",
+        "typescript": "^4.2.4"
+    }
+}
