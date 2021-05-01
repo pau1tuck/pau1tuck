@@ -1,6 +1,4 @@
-#### 🄵🅄🄻🄻 🅂🅃🄰🄲🄺 🄳🄴🅅🄴🄻🄾🄿🄴🅁
-
-🚀 I'm a freelance software consultant from the UK, specializing in Node.js, Deno, SQL/NoSQL, GraphQL and React/React Native with TypeScript. I also work with Python Django, Arch Linux and Web Assembly with C/C++.
+🚀 I'm a freelance software developer from the UK, specializing in Node.js, SQL/NoSQL, GraphQL and React/React Native with TypeScript. I also work with Python Django, Arch Linux and Web Assembly with C/C++.
 
 I'm experienced with the following frameworks, languages and tools:
 
