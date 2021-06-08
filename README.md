@@ -1,4 +1,4 @@
-🚀 I'm a freelance software engineer from the UK, specializing in Node.js, SQL/NoSQL, GraphQL and React (Native) with TypeScript. I also work with Python Django, Arch/Artix Linux and Web Assembly with Rust.
+🚀 I'm a freelance software engineer and computer scientist from the UK, specializing in Node.js, SQL/NoSQL, GraphQL and React (Native) with TypeScript. I also work with Python, Arch Linux and Web Assembly with Rust.
 
 I'm experienced with the following frameworks, languages and tools:
 
