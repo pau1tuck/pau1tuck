@@ -1,3 +1,5 @@
+![PAUL TUCK](https://i.ibb.co/4KyYZ0B/pt-inverted.png)
+
 🚀 I'm a freelance software engineer and linguist from the UK, specializing in Node.js, SQL/NoSQL, GraphQL and React (Native) with TypeScript. I also work with Python, Arch Linux and Web Assembly with Rust.
 
 I'm experienced with the following frameworks, languages and tools:
