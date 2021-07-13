@@ -20,51 +20,43 @@
     <body>
         <div class="wrapper">
             <header>
-                <h1>PAUL TUCK</h1>
+                <h1>
+                    <img src="img/paul-tuck.png" alt="Paul Tuck" class="logo" />
+                </h1>
                 <section class="menu">
                     <ul>
                         <li><a href="#">Home</a></li>
-                        <li><a href="#">About</a></li>
+                        <li><a href="about.html">About</a></li>
                         <li><a href="#">Contact</a></li>
                     </ul>
                 </section>
             </header>
             <main>
-                <section class="content">
-                    <h2>
-                        Social authentication with TypeGraphQL, TypeORM, and
-                        Passport.js
-                    </h2>
-                    <p>Create a src/index.ts for the Express server.</p>
-                    <div class="code">
-                        <p>
-                            import express, { Express, Request, Response } from
-                            "express";
-                        </p>
-                        <br />
-                        <p>const server = async () => {</p>
-                        <p>&emsp;const app: Express = express();</p>
-                        <br />
-                        <p>
-                            &emsp;app.get("/", (req: Request, res: Response) =>
-                            { res.sendFile(path.resolve(__dirname,
-                            "../public/index.html")); });
-                        </p>
-                        <br />
+                <section>
+                    <section class="icons">
+                        <span class="icon github"
+                            ><img src="img/github-6-32.png"
+                        /></span>
+                        <span class="icon"
+                            ><img src="img/linkedin-32.png"
+                        /></span>
+                        <span class="icon twitter"
+                            ><img src="img/twitter-32.png"
+                        /></span>
+                    </section>
+                    <section class="content">
+                        <h2>Articles</h2>
+                        <h4><a>Algorithms: Prime Number Check</a></h4>
+                        <h4><a>Algorithms: Sorting Algorithms</a></h4>
+                        <h4><a>Algorithms: Maximum Contiguous Subarray</a></h4>
+                        <h2>Projects</h2>
 
-                        <p>&emsp;app.listen(5000, () => {</p>
-                        <p>
-                            &emsp;&emsp;console.log("🚀 Node server running on
-                            port 5000");
-                        </p>
-                        <p>&emsp;});</p>
-                        <p>};</p>
-                        <br />
-
-                        <p>server().catch((err) => {</p>
-                        <p>&emsp;console.log(err);</p>
-                        <p>});</p>
-                    </div>
+                        <h2>
+                            Social authentication with TypeGraphQL, TypeORM, and
+                            Passport.js
+                        </h2>
+                        <p>Create a src/index.ts for the Express server.</p>
+                    </section>
                 </section>
             </main>
         </div>

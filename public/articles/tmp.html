@@ -1,0 +1,24 @@
+<h2>Social authentication with TypeGraphQL, TypeORM, and Passport.js</h2>
+<p>Create a src/index.ts for the Express server.</p>
+<div class="code">
+    <p>import express, { Express, Request, Response } from "express";</p>
+    <br />
+    <p>const server = async () => {</p>
+    <p>&emsp;const app: Express = express();</p>
+    <br />
+    <p>
+        &emsp;app.get("/", (req: Request, res: Response) => {
+        res.sendFile(path.resolve(__dirname, "../public/index.html")); });
+    </p>
+    <br />
+
+    <p>&emsp;app.listen(5000, () => {</p>
+    <p>&emsp;&emsp;console.log("🚀 Node server running on port 5000");</p>
+    <p>&emsp;});</p>
+    <p>};</p>
+    <br />
+
+    <p>server().catch((err) => {</p>
+    <p>&emsp;console.log(err);</p>
+    <p>});</p>
+</div>
