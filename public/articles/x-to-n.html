@@ -15,12 +15,22 @@
             rel="stylesheet"
         />
         <link rel="stylesheet" href="css/styles.css" />
-        <script src="js/header.js"></script>
     </head>
 
     <body>
         <div class="wrapper">
-            <header role="header"></header>
+            <header>
+                <h1>
+                    <img src="img/paul-tuck.png" alt="Paul Tuck" class="logo" />
+                </h1>
+                <section class="menu">
+                    <ul>
+                        <li><a href="#">Home</a></li>
+                        <li><a href="about.html">About</a></li>
+                        <li><a href="#">Contact</a></li>
+                    </ul>
+                </section>
+            </header>
             <main>
                 <section>
                     <section class="icons">
@@ -35,16 +45,9 @@
                         /></span>
                     </section>
                     <section class="content">
-                        <h2>Articles</h2>
-                        <h4><a>Algorithms: Prime Number Check</a></h4>
-                        <h4>
-                            <a href="articles/x-to-n.html"
-                                >Algorithms: Calculating <i>x<sup>n</sup></i></a
-                            >
-                        </h4>
-                        <h4><a>Algorithms: Sorting Algorithms</a></h4>
-                        <h4><a>Algorithms: Maximum Contiguous Subarray</a></h4>
-                        <h2>Projects</h2>
+                        <h2>
+                            Algorithms: Calculating <i>x<sup>n</sup></i>
+                        </h2>
 
                         <h2>
                             Social authentication with TypeGraphQL, TypeORM, and
@@ -55,13 +58,5 @@
                 </section>
             </main>
         </div>
-        <script>
-            window.addEventListener("DOMContentLoaded", () => {
-                let siteHeader = document.querySelector(
-                    'header[role="header"]'
-                );
-                siteHeader.innerHTML = header;
-            });
-        </script>
     </body>
 </html>
