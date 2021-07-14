@@ -1,6 +1,6 @@
 ![PAUL TUCK](https://i.ibb.co/4KyYZ0B/pt-inverted.png)
 
-🚀 I'm a British linguist and computer scientist, specializing in Node.js, SQL/NoSQL, GraphQL and React (Native) with TypeScript. I also work with Python, Arch Linux and Web Assembly with Rust.
+🚀 I'm a British linguist and computer scientist, specializing in TypeScript, Python, and Rust. I generally work with Node.js, Django, SQL/NoSQL, GraphQL and React (Native).
 
 I'm experienced with the following frameworks, languages and tools:
 
