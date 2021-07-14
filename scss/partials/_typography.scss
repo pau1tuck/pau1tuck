@@ -1,0 +1,137 @@
+@import "./_fonts";
+
+$body-font: "Open Sans", Arial, Helvetica, sans-serif;
+$heading-font: "Quicksand", Arial, Helvetica, sans-serif;
+$code-font: "SF Mono", Monaco, Menlo, Consolas, "Courier New", monospace;
+
+body {
+    font-family: $body-font;
+    font-size: 16px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: 1.6;
+}
+
+blockquote {
+    border-left: 2px solid blue;
+    font-family: Georgia, Times, "Times New Roman", serif;
+    font-size: 1.4em;
+    font-style: italic;
+    font-weight: 400;
+    margin: 0 0 $padding/2;
+    padding-left: 25px;
+}
+
+h1,
+h2,
+h3,
+h4,
+h5 {
+    font-family: $heading-font;
+}
+
+h1 {
+    font-size: 68px;
+    font-style: normal;
+    font-weight: 500;
+    margin: 0 0 10px;
+}
+
+h2 {
+    margin: 0 0 25px;
+    padding-bottom: 5px;
+    font-size: 36px;
+    font-style: normal;
+    font-weight: 500;
+}
+
+h3 {
+    font-size: 26px;
+    font-style: normal;
+    font-weight: 500;
+    margin: 0 0 25px;
+}
+
+h4 {
+    font-size: 18px;
+    font-style: normal;
+    font-weight: 500;
+    margin: 0 0 25px;
+}
+
+h5 {
+    font-size: 16px;
+    font-style: normal;
+    font-weight: normal;
+    margin: 0 0 25px;
+}
+
+p {
+    margin: 0 0 $padding/2;
+}
+
+pre {
+    background: #222;
+    color: #fff;
+    display: block;
+    font-family: Monaco, Menlo, Consolas, "Courier New", monospace;
+    font-size: 13px;
+    line-height: 20px;
+    margin: 0 0 $padding/2;
+    padding: 10px;
+    word-break: break-all;
+    word-wrap: break-word;
+}
+
+a {
+    color: $primary-color;
+    text-decoration: none;
+
+    &:hover,
+    &:focus {
+        text-decoration: none;
+    }
+}
+
+// Responsive styles if needed
+// @include responsive($big-break) {
+// }
+@include responsive($small-break) {
+    body {
+        font-size: 14px;
+    }
+
+    h1,
+    h2,
+    h3,
+    h4,
+    h5 {
+        margin-bottom: 5px;
+    }
+
+    h1 {
+        font-size: 26px;
+    }
+
+    h2 {
+        font-size: 18px;
+    }
+
+    h3 {
+        font-size: 16px;
+    }
+
+    h4,
+    h5,
+    p,
+    ul,
+    ol {
+        font-size: 14px;
+    }
+}
+
+// Mobile first styles if needed
+// @include mobilefirst($big-break) {
+// }
+// @include mobilefirst($small-break) {
+// }

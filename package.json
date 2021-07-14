@@ -1,12 +1,12 @@
 {
     "name": "pau1tuck",
     "version": "1.0.0",
-    "main": "dist/index.js",
+    "main": "api/index.js",
     "repository": "https://github.com/pau1tuck/pau1tuck.git",
     "author": "Paul Tuck @pau1tuck",
     "license": "MIT",
     "scripts": {
-        "dev": "concurrently \"tsc -w\" \"nodemon dist/index.js\"",
+        "dev": "concurrently \"tsc -w\" \"nodemon api/index.js\"",
         "build": "tsc",
         "start": "node api/index.js",
         "lint": "eslint '*/**/*.{ts,tsx}' --quiet --fix"

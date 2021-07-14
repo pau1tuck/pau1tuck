@@ -1,0 +1,73 @@
+/* Quicksand Medium */
+@font-face {
+  font-family: "Quicksand";
+  font-style: normal;
+  font-weight: 500;
+  src: url("../fonts/quicksand-v22-latin-500.eot"); /* IE9 Compat Modes */
+  src: local(""),
+    url("../fonts/quicksand-v22-latin-500.eot?#iefix") format("embedded-opentype"),
+    /* IE6-IE8 */ url("../fonts/quicksand-v22-latin-500.woff2") format("woff2"),
+    /* Super Modern Browsers */ url("../fonts/quicksand-v22-latin-500.woff")
+      format("woff"),
+    /* Modern Browsers */ url("../fonts/quicksand-v22-latin-500.ttf") format("truetype"),
+    /* Safari, Android, iOS */ url("../fonts/quicksand-v22-latin-500.svg#Quicksand")
+      format("svg"); /* Legacy iOS */
+}
+
+/* Quicksand Semibold */
+@font-face {
+  font-family: "Quicksand";
+  font-style: normal;
+  font-weight: 600;
+  src: url("../fonts/quicksand-v22-latin-600.eot"); /* IE9 Compat Modes */
+  src: local(""),
+    url("../fonts/quicksand-v22-latin-600.eot?#iefix") format("embedded-opentype"),
+    /* IE6-IE8 */ url("../fonts/quicksand-v22-latin-600.woff2") format("woff2"),
+    /* Super Modern Browsers */ url("../fonts/quicksand-v22-latin-600.woff")
+      format("woff"),
+    /* Modern Browsers */ url("../fonts/quicksand-v22-latin-600.ttf") format("truetype"),
+    /* Safari, Android, iOS */ url("../fonts/quicksand-v22-latin-600.svg#Quicksand")
+      format("svg"); /* Legacy iOS */
+}
+
+/* SF Mono Regular */
+@font-face {
+  font-family: "SF Mono";
+  font-style: normal;
+  font-weight: 400;
+  src: url("../fonts/sf-mono-regular.eot"),
+    url("../fonts/sf-mono-regular.eot?#iefix") format("embedded-opentype"),
+    url("../fonts/sf-mono-regular.otf") format("opentype"),
+    url("../fonts/sf-mono-regular.woff2") format("woff2"),
+    url("../fonts/sf-mono-regular.woff") format("woff"),
+    url("../fonts/sf-mono-regular.ttf") format("truetype"),
+    url("../fonts/sf-mono-regular.svg") format("svg");
+}
+
+/* SF Mono Regular Italic*/
+@font-face {
+  font-family: "SF Mono";
+  font-style: italic;
+  font-weight: 400;
+  src: url("../fonts/sf-mono-regular-italic.eot"),
+    url("../fonts/sf-mono-regular-italic.eot?#iefix") format("embedded-opentype"),
+    url("../fonts/sf-mono-regular-italic.otf") format("opentype"),
+    url("../fonts/sf-mono-regular-italic.woff2") format("woff2"),
+    url("../fonts/sf-mono-regular-italic.woff") format("woff"),
+    url("../fonts/sf-mono-regular-italic.ttf") format("truetype"),
+    url("../fonts/sf-mono-regular-italic.svg") format("svg");
+}
+
+/* SF Mono Semibold */
+@font-face {
+  font-family: "SF Mono";
+  font-style: italic;
+  font-weight: 400;
+  src: url("../fonts/sf-mono-regular-italic.eot"),
+    url("../fonts/sf-mono-semibold.eot?#iefix") format("embedded-opentype"),
+    url("../fonts/sf-mono-semibold.otf") format("opentype"),
+    url("../fonts/sf-mono-semibold.woff2") format("woff2"),
+    url("../fonts/sf-mono-semibold.woff") format("woff"),
+    url("../fonts/sf-mono-semibold.ttf") format("truetype"),
+    url("../fonts/sf-mono-semibold.svg") format("svg");
+}

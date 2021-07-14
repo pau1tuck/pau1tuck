@@ -437,8 +437,8 @@
         "affectsGlobalScope": false
       },
       "./src/index.ts": {
-        "version": "14fbe92ac77b79e9df669a3ebfdfa08e864999e1bec93492a75d6d4624c5b91e",
-        "signature": "f761c91419d0a89422a0004ef1a92929dd4d2d5e5c16758654d8b0467d1998c6",
+        "version": "449ea25dab8992b34c29a0a9910c90b1f5545ec765322f180f7e13e162a86353",
+        "signature": "8e609bb71c20b858c77f0e9f90bb1319db8477b13f9f965f1a1e18524bf50881",
         "affectsGlobalScope": false
       },
       "./node_modules/@types/normalize-package-data/index.d.ts": {
@@ -461,7 +461,7 @@
       "sourceMap": true,
       "baseUrl": "./",
       "rootDir": "./src",
-      "outDir": "./dist",
+      "outDir": "./api",
       "paths": {
         "~/*": [
           "src/"
@@ -489,7 +489,7 @@
       "checkJs": true,
       "declaration": false,
       "importHelpers": true,
-      "pathsBasePath": "E:/dev/pau1tuck",
+      "pathsBasePath": "/home/paul/dev/pau1tuck",
       "watch": true,
       "configFilePath": "./tsconfig.json"
     },
