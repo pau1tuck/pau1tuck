@@ -16,7 +16,7 @@ I do most of my design work with Adobe Photoshop, Illustrator, After Effects, an
 
 🚀 DEPLOYMENT: Ubuntu Server 20, Arch Linux; Heroku; Docker, Kubernetes
 
-💬 LANGUAGES: TypeScript, JavaScript ES8+, GraphQL, Python, Rust, C/C++; English (Native), Mandarin Chinese
+💬 LANGUAGES: TypeScript, JavaScript ES6+, GraphQL, Python, Rust, C/C++; English (Native), Mandarin Chinese
 <!--
 **pau1tuck/pau1tuck** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
