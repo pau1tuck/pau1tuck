@@ -1,6 +1,6 @@
 ![PAUL TUCK](https://i.ibb.co/4KyYZ0B/pt-inverted.png)
 
-🚀 I'm a British software developer, specializing in Rust, Python, and TypeScript. I generally work with Node.js, Django, SQL/NoSQL, GraphQL and React (Native).
+🚀 I'm a British software developer, specializing in Python, PHP, and TypeScript. I generally work with Node.js, Django, Moodle, SQL/NoSQL, GraphQL and React (Native).
 
 I'm experienced with the following frameworks, languages and tools:
 
