@@ -4,11 +4,11 @@
 
 I'm experienced with the following frameworks, languages and tools:
 
-✅ CLIENT: React, React Native, Next.js, Apollo Client, GraphQL-(cli), React Hook Form (Yup), framer-motion, CSS-in-JS, styled-components, Chakra UI, Material UI, SASS, Bootstrap; HTML5
+✅ CLIENT: React, React Native, Next.js, Apollo Client, GraphQL-(cli), React Hook Form (Yup), framer-motion, CSS-in-JS, styled-components, Chakra UI, Material UI, SASS, Bootstrap, jQuery, Mustache, HTML5
 
 I do most of my design work with Adobe Photoshop, Illustrator, After Effects, and Figma.
 
-✅ SERVER: Node.js, Express, Apollo Server, Django; TypeORM, TypeGraphQL, Graphene; Nest.js, Prisma
+✅ SERVER: Node.js, Express, Apollo Server, Django, Moodle; TypeORM, TypeGraphQL, Graphene; Nest.js, Prisma
 
 📖 DATABASES: PostgreSQL, MySQL, MongoDB, Apache Cassandra, Redis
 
