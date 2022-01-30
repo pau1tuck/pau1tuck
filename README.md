@@ -1,6 +1,6 @@
 ![PAUL TUCK](https://i.ibb.co/4KyYZ0B/pt-inverted.png)
 
-🚀 I'm a British researcher specializing in applied computational linguistics with Python, Rust, and TypeScript.
+🚀 I'm a British researcher specializing in educational technology.
 
 I'm experienced with the following frameworks, languages and tools:
 
