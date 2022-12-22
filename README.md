@@ -2,7 +2,7 @@
 
 🚀 I'm a British developer specialising in contemporary web development, data analytics, and natural language processing.
 
-I'm experienced with the following languages, frameworks and tools:
+I'm experienced with the following languages, libraries, and tools:
 
 💬 LANGUAGES: Python, TypeScript/JavaScript, SQL, GraphQL, Bash; English (Native), Mandarin Chinese
 
