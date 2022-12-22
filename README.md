@@ -1,22 +1,23 @@
 ![PAUL TUCK](https://i.ibb.co/4KyYZ0B/pt-inverted.png)
 
-🚀 I'm a British developer specializing in educational technology.
+🚀 I'm a British developer specialising in contemporary web development, data analytics, and natural language processing.
 
-I'm experienced with the following frameworks, languages and tools:
+I'm experienced with the following languages, frameworks and tools:
+
+💬 LANGUAGES: Python, TypeScript/JavaScript, SQL, GraphQL, Bash; English (Native), Mandarin Chinese
 
 ✅ CLIENT: React, React Native, Next.js, Apollo Client, GraphQL-(cli), React Hook Form (Yup), framer-motion, CSS-in-JS, styled-components, Chakra UI, Material UI, SASS, Bootstrap, jQuery, Mustache, HTML5
 
-I do most of my design work with Adobe Photoshop, Illustrator, After Effects, and Figma.
+I do most of my front-end design work using Adobe Creative Cloud.
 
-✅ SERVER: Node.js, Express, Apollo Server, Django, Moodle; TypeORM, TypeGraphQL, Graphene; Nest.js, Prisma
+✅ SERVER: Django, Flask, Node.js, Express, Apollo Server, TypeORM, TypeGraphQL, Graphene
 
-📖 DATABASES: PostgreSQL, MySQL, MongoDB, Apache Cassandra, Redis
+📖 DATABASE: PostgreSQL, MySQL, MongoDB, Apache Cassandra, Redis
 
-🛠️ TOOLS: Git, Jira; Jest, React Testing Library; WebPack, Babel, esBuild, Emscripten; ESLint; Vim, VSCode
+🛠️ TOOLING: Git, Jira; Jest, React Testing Library; WebPack, Babel, esBuild, Emscripten; ESLint; Vim, Visual Studio Code
 
-🚀 DEPLOYMENT: Ubuntu Server 20, Arch Linux; Heroku; Docker, Kubernetes
+🚀 DEPLOYMENT: Ubuntu Server, Arch/Artix Linux; Heroku; Docker, Kubernetes
 
-💬 LANGUAGES: TypeScript, JavaScript ES6+, GraphQL, Python, PHP, Rust; English (Native), Mandarin Chinese
 <!--
 **pau1tuck/pau1tuck** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
