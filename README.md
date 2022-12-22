@@ -8,11 +8,11 @@ I'm experienced with the following languages, frameworks and tools:
 
 ✅ CLIENT: React, React Native, Next.js, Apollo Client, GraphQL-(cli), React Hook Form (Yup), framer-motion, CSS-in-JS, styled-components, Chakra UI, Material UI, SASS, Bootstrap, jQuery, Mustache, HTML5
 
-I do most of my front-end design work using Adobe Creative Cloud.
+I do most of my frontend design work using the Adobe Creative Cloud suite.
 
-✅ SERVER: Django, Flask, Node.js, Express, Apollo Server, TypeORM, TypeGraphQL, Graphene
+✅ SERVER: Django, Flask, Node.js, Express, Apollo Server, Graphene, TypeORM, TypeGraphQL 
 
-📖 DATABASE: PostgreSQL, MySQL, MongoDB, Apache Cassandra, Redis
+📖 DATABASE: MySQL, PostgreSQL, MongoDB, Apache Cassandra, Redis
 
 🛠️ TOOLING: Git, Jira; Jest, React Testing Library; WebPack, Babel, esBuild, Emscripten; ESLint; Vim, Visual Studio Code
 
