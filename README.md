@@ -4,7 +4,7 @@
 
 I'm experienced with the following languages, libraries, and tools:
 
-💬 LANGUAGES: Python, TypeScript/JavaScript, SQL, GraphQL, Bash; English (Native), Mandarin Chinese
+💬 LANGUAGES: Python, TypeScript/JavaScript, Bash, SQL, GraphQL; English (Native), Mandarin Chinese
 
 ✅ CLIENT: React, React Native, Next.js, Apollo Client, GraphQL-(cli), React Hook Form (Yup), framer-motion, CSS-in-JS, styled-components, Chakra UI, Material UI, SASS, Bootstrap, jQuery, Mustache, HTML5
 
