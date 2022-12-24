@@ -14,7 +14,7 @@ I'm experienced with the following languages, libraries, and tools:
 
 I do the majority of my frontend design work using the Adobe Creative Cloud suite.
 
-✅ SERVER: Django, Flask, Node.js, Express, Apollo Server, Graphene, TypeORM, TypeGraphQL 
+✅ SERVER: Python Django, Flask, FastAPI, Graphene; Node.js, Express, Apollo Server, TypeORM, TypeGraphQL 
 
 🛠️ TOOLING: Git, Docker, Jira; Jest, React Testing Library; WebPack, Babel, esBuild, Emscripten; ESLint; Vim, Visual Studio Code
 
