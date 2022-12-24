@@ -4,19 +4,21 @@
 
 I'm experienced with the following languages, libraries, and tools:
 
-💬 LANGUAGES: Python, TypeScript/JavaScript, Bash, SQL, GraphQL; English (Native), Mandarin Chinese
+💬 LANGUAGES: Python, Bash, TypeScript, SQL, GraphQL; English (Native), Mandarin Chinese
+
+📖 DATABASES: MySQL, PostgreSQL, MongoDB, Apache Cassandra, Redis
+
+💻 SYSTEMS: Arch/Artix Linux, Ubuntu Server, Windows Subsystem for Linux
 
 ✅ CLIENT: React, React Native, Next.js, Apollo Client, GraphQL-(cli), React Hook Form (Yup), framer-motion, CSS-in-JS, styled-components, Chakra UI, Material UI, SASS, Bootstrap, jQuery, Mustache, HTML5
 
-I do most of my frontend design work using the Adobe Creative Cloud suite.
+I do the majority of my frontend design work using the Adobe Creative Cloud suite.
 
 ✅ SERVER: Django, Flask, Node.js, Express, Apollo Server, Graphene, TypeORM, TypeGraphQL 
 
-📖 DATABASE: MySQL, PostgreSQL, MongoDB, Apache Cassandra, Redis
+🛠️ TOOLING: Git, Docker, Jira; Jest, React Testing Library; WebPack, Babel, esBuild, Emscripten; ESLint; Vim, Visual Studio Code
 
-🛠️ TOOLING: Git, Jira; Jest, React Testing Library; WebPack, Babel, esBuild, Emscripten; ESLint; Vim, Visual Studio Code
-
-🚀 DEPLOYMENT: Ubuntu Server, Arch/Artix Linux; Heroku; Docker, Kubernetes
+🚀 DEPLOYMENT: Heroku; Kubernetes
 
 <!--
 **pau1tuck/pau1tuck** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
