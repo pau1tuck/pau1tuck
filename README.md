@@ -4,7 +4,7 @@
 
 I'm experienced with the following languages, libraries, and tools:
 
-💬 LANGUAGES: Python, Bash, SQL, GraphQL, TypeScript | English (Native), Mandarin Chinese
+💬 LANGUAGES: Bash, Python, Rust, SQL, GraphQL, TypeScript | English (Native), Mandarin Chinese
 
 📖 DATABASES: MySQL, PostgreSQL, MongoDB, Apache Cassandra, Redis
 
