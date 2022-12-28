@@ -1,6 +1,6 @@
 ![PAUL TUCK](https://i.ibb.co/4KyYZ0B/pt-inverted.png)
 
-🚀 I'm a British researcher specialising in contemporary web development, data analytics, and natural language processing.
+🚀 I'm a British developer and researcher specialising in contemporary web development, data analytics, and natural language processing.
 
 I'm experienced with the following languages, libraries, and tools:
 
