@@ -8,7 +8,7 @@ I'm experienced with the following languages, libraries, and tools:
 
 📖 DATABASES: MySQL, PostgreSQL, MongoDB, Apache Cassandra, Redis
 
-💻 SYSTEMS: Arch/Artix Linux, Ubuntu Server, Windows Subsystem for Linux
+💻 SYSTEMS: Arch/Artix Linux, Debian, Windows Subsystem for Linux
 
 ✅ CLIENT: React, React Native, Next.js, Apollo Client, GraphQL-(cli), React Hook Form (Yup), framer-motion, CSS-in-JS, styled-components, Chakra UI, Material UI, SASS, Bootstrap, jQuery, Mustache, HTML5
 
