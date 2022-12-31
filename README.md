@@ -1,10 +1,10 @@
 ![PAUL TUCK](https://i.ibb.co/4KyYZ0B/pt-inverted.png)
 
-🚀 I'm a British developer and researcher specialising in contemporary web applications, data analytics, and natural language processing.
+🚀 I'm a British developer and researcher specialising in data analytics, natural language processing and Linux DevOps.
 
 I'm experienced with the following languages, libraries, and tools:
 
-💬 LANGUAGES & SKILLS: Python, Rust, Bash, SQL, GraphQL, TypeScript | English (Native), Mandarin Chinese
+💬 LANGUAGES & SKILLS: Python, C, Bash, SQL, GraphQL, TypeScript | English (Native), Mandarin Chinese
 
 📖 DATABASES: MySQL, PostgreSQL, MongoDB, Apache Cassandra, Redis
 
