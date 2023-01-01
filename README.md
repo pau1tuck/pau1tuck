@@ -1,20 +1,20 @@
 ![PAUL TUCK](https://i.ibb.co/4KyYZ0B/pt-inverted.png)
 
-🚀 I'm a British developer and researcher specialising in data analytics, natural language processing and DevOps.
+🚀 I'm a British developer and consultant specialising in data analysis, natural language processing and DevOps.
 
 I'm experienced with the following languages, libraries, and tools:
 
-💬 LANGUAGES & SKILLS: Python, C, Bash, SQL, GraphQL, TypeScript | English (Native), Mandarin Chinese
+💬 LANGUAGES: Python, C, Bash, SQL, GraphQL, TypeScript | English (Native), Mandarin Chinese
 
 📖 DATABASES: MySQL, PostgreSQL, MongoDB, Apache Cassandra, Redis
 
-💻 SYSTEMS: Arch/Artix Linux, Debian, CentOS, WSL
+💻 SYSTEMS: Arch/Artix-runit Linux, Ubuntu LTS/Debian, CentOS, WSL
+
+✅ SERVER: Python Django, Flask, FastAPI, Graphene; Node.js, Express, Apollo Server, TypeORM, TypeGraphQL 
 
 ✅ CLIENT: React, React Native, Next.js, Apollo Client, GraphQL-(cli), React Hook Form (Yup), framer-motion, CSS-in-JS, styled-components, Chakra UI, Material UI, SASS, Bootstrap, jQuery, Mustache, HTML5
 
 I do the majority of my frontend design work using the Adobe Creative Cloud suite.
-
-✅ SERVER: Python Django, Flask, FastAPI, Graphene; Node.js, Express, Apollo Server, TypeORM, TypeGraphQL 
 
 🛠️ TOOLING: Git, Docker, Jira; Jest, React Testing Library; WebPack, Babel, esBuild, Emscripten; ESLint; Vim, Visual Studio Code
 
