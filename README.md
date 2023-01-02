@@ -1,6 +1,6 @@
 ![PAUL TUCK](https://i.ibb.co/4KyYZ0B/pt-inverted.png)
 
-🚀 I'm a British developer and consultant specialising in data analytics, natural language processing and DevOps.
+🚀 I'm a server-side developer and consultant specializing in data analytics, natural language processing and DevOps.
 
 I'm experienced with the following languages, libraries, and tools:
 
