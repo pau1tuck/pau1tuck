@@ -8,7 +8,7 @@ I'm experienced with the following languages, libraries, and tools:
 
 📖 DATABASES: MySQL, PostgreSQL, MongoDB, Apache Cassandra, Redis
 
-💻 SYSTEMS: Arch Linux/Artix-runit, Ubuntu LTS/Debian, CentOS, WSL2
+💻 SYSTEMS: Arch Linux/Artix-runit, Ubuntu LTS/Debian, CentOS, WSL2 (Linux Professional Institute LPIC-1,2)
 
 🚀 DevOps: AWS Cloud Computing Platform, Heroku; Kubernetes
 
