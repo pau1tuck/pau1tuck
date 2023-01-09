@@ -1,6 +1,6 @@
 ![PAUL TUCK](https://i.ibb.co/4KyYZ0B/pt-inverted.png)
 
-🚀 I'm a server-side developer and consultant specializing in data science, natural language processing and DevOps engineering. I also write about psychology, productivity, and mental wellbeing for developers and computer scientists.
+🚀 I'm a server-side developer and consultant specializing in data science, natural language processing and devops engineering. I also write about psychology, productivity, and mental wellbeing for developers and computer scientists.
 
 I'm experienced with the following languages, libraries, and tools:
 
