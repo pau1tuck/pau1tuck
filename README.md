@@ -1,16 +1,16 @@
 ![PAUL TUCK](https://i.ibb.co/4KyYZ0B/pt-inverted.png)
 
-🚀 I'm a server-side developer and consultant specializing in data science, natural language processing and devops engineering. I also write about psychology, productivity, and mental wellbeing for developers and computer scientists.
+🚀 I'm a developer and consultant specializing in data science and natural language processing.
 
 I'm experienced with the following languages, libraries, and tools:
 
-💬 LANGUAGES: Python, C, Bash, SQL, GraphQL, TypeScript | English (Native), Mandarin Chinese
+💬 LANGUAGES: Python, Rust, C, Bash, SQL, GraphQL, TypeScript | English (Native), Mandarin Chinese
 
 📖 DATABASES: MySQL, PostgreSQL, MongoDB, Apache Cassandra, Redis
 
-💻 SYSTEMS: Arch Linux/Artix-runit, Ubuntu LTS/Debian, CentOS (Linux Professional Institute LPIC-1 & 2)
+💻 SYSTEMS: Arch Linux/Artix-runit, Ubuntu LTS, Debian Linux, CentOS (Linux Professional Institute LPIC-1 & 2)
 
-🚀 DevOps: AWS Cloud Computing Platform, Heroku; Kubernetes
+🚀 DevOps: AWS Cloud Computing Platform, Heroku
 
 ✅ SERVER: Python Django, Flask, FastAPI, Graphene; Node.js, Express, Apollo Server, TypeORM, TypeGraphQL 
 
