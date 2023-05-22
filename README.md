@@ -1,10 +1,10 @@
 ![PAUL TUCK](https://i.ibb.co/4KyYZ0B/pt-inverted.png)
 
-🚀 I'm a developer and consultant specializing in data science and natural language processing.
+🚀 I'm a full stack developer and consultant specializing in web programming and natural language processing.
 
 I'm experienced with the following languages, libraries, and tools:
 
-💬 LANGUAGES: Python, Rust, C, Bash, SQL, GraphQL, TypeScript | English (Native), Mandarin Chinese
+💬 LANGUAGES: TypeScript, Python, Rust, Bash, SQL, GraphQL | English (Native), Mandarin Chinese
 
 📖 DATABASES: MySQL, PostgreSQL, MongoDB, Apache Cassandra, Redis
 
