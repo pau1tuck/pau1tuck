@@ -6,19 +6,19 @@ I'm experienced with the following languages, libraries, and tools:
 
 💬 LANGUAGES: TypeScript, Python, Rust, Solidity, Bash, SQL, GraphQL | English (Native), Mandarin Chinese
 
-📖 DATABASES: MySQL, PostgreSQL, MongoDB, Apache Cassandra, Redis
+📖 DATABASES: MySQL, PostgreSQL, MongoDB, Apache HBase, Apache Cassandra, Redis
 
 💻 SYSTEMS: Arch Linux/Artix-runit, Ubuntu LTS, Debian Linux, CentOS (Linux Professional Institute LPIC-1 & 2)
 
-🚀 DevOps: AWS Cloud Computing Platform, Heroku
+🚀 DevOps: AWS Cloud Computing Platform, Google Cloud, Heroku
 
-✅ SERVER: Python Django, Flask, FastAPI, Graphene; Node.js, Express, Apollo Server, TypeORM, TypeGraphQL 
+✅ SERVER: Node.js, Nest.js, Express, Apollo Server, TypeORM, TypeGraphQL; Python Django, Flask, FastAPI, Graphene
 
-✅ CLIENT: React, React Native, Next.js, Apollo Client, GraphQL-(cli), React Hook Form (Yup), framer-motion, CSS-in-JS, Tailwind CSS, styled-components, Chakra UI, Material UI, SASS, Bootstrap, jQuery, Mustache, HTML5
+✅ CLIENT: React, React Native, Next.js, Apollo Client, GraphQL-(cli), React Hook Form (Yup), framer-motion, Tailwind CSS, styled-components, Chakra UI, Material UI, SASS, Bootstrap, jQuery, HTML 5, CSS 3
 
-I do the majority of my frontend design work using the Adobe Creative Cloud suite.
+I do the majority of my frontend design work with the Adobe Creative Cloud suite.
 
-🛠️ TOOLING: Git, Docker, Jira; Cypress, Jest, React Testing Library; WebPack, Babel, esBuild, Emscripten; Biome/Rome, ESLint, Prettier; Vim, Visual Studio Code
+🛠️ TOOLING: Git, GitHub, Jira, Slack; Docker, Kubernetes; Cypress, Jest, React Testing Library; WebPack, Babel, esBuild, Emscripten; Biome/Rome, ESLint, Prettier; Vim, Visual Studio Code
 
 <!--
 **pau1tuck/pau1tuck** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
