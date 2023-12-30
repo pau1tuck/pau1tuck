@@ -1,6 +1,6 @@
 ![PAUL TUCK](https://i.ibb.co/4KyYZ0B/pt-inverted.png)
 
-🚀 I'm a British full stack engineer and consultant specializing in educational and productivity applications.
+🚀 I'm a full stack engineer and consultant specializing in education and productivity software.
 
 I'm experienced with the following languages, libraries, and tools:
 
